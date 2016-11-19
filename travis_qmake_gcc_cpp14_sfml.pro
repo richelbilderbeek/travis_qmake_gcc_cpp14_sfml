@@ -1,7 +1,3 @@
-TEMPLATE = app
-CONFIG += console
-CONFIG -= app_bundle qt
-
 # Files
 SOURCES += main.cpp
 
