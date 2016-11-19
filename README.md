@@ -14,6 +14,10 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Code coverage: none
  * Source: one single file, `main.cpp`
 
+More complex builds:
+ * Add `gcov`: [travis_qmake_gcc_cpp14_gcov_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_gcov_sfml)
+ * Add `OCLint`: [travis_qmake_gcc_cpp14_oclint_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_oclint_sfml)
+
 Less complex builds:
  * C++98: [travis_qmake_gcc_cpp98_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
  * C++11: [travis_qmake_gcc_cpp11_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_sfml)
