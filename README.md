@@ -23,3 +23,7 @@ Less complex builds:
  * C++98: [travis_qmake_gcc_cpp98_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
  * C++11: [travis_qmake_gcc_cpp11_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_sfml)
  * STL only: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
+
+## External links
+
+ * [Correct C++ 'hello_sfml' chapter](https://github.com/richelbilderbeek/correct_cpp_hello_sfml)
